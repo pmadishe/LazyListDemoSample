@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_array">
+        <item>Brick Century</item>
+        <item>Brick Century2</item>
+        <item>Brick Century3</item>
+        <item>Brick Century4</item>
+        <item>Brick Century41</item>
+        <item>Brick Century42</item>
+        <item>Brick Century43</item>
+        <item>Brick Century44</item>
+        <item>Brick Century444</item>
+        <item>Brick Century423</item>
+        <item>Brick Century4rt</item>
+        <item>Brick Century4re</item>
+        <item>Brick Century4gf</item>
+        <item>Brick Century4t54g</item>
+        <item>Brick Century4ggt</item>
+        <item>Brick Century4rtrt</item>
+        <item>Brick Century4rbr</item>
+        <item>Brick Century4rbrb</item>
+
+    </string-array>
+</resources>
